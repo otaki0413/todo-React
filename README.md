@@ -1,2 +1,3 @@
 # todo-React
-Created with CodeSandbox
+・じゃけえさんのUdemyの講座の成果物です。
+・Reactを使って、TODOアプリを作成しました。
